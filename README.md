@@ -13,7 +13,7 @@ Le projet est réalisé par **groupe de 2 à 3 apprentis**.
 
 Les contraintes pour la spécification des fonctionnalités à mettre en place sont :
 
-- Minimum **4 User Stories**
+- Le projet final devra être réalisé au minimum au stade MVP d'une solution définit par le groupe.
 - Utilisation de **GitHub Project** selon le **template fourni**
 
 ---
