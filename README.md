@@ -71,6 +71,7 @@ La documentation sera contenue dans un fichier **README.md** et devra traiter le
 
 - Introduction
 - Description des fonctionnalités implémentées
+- DoD (Definition of Done)
 - Mise en œuvre des processus **CI/CD**
 - Problèmes rencontrés
 - Conclusion
